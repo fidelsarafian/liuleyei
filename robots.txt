@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rooquionae.volcano18.top/sitemap.xml
